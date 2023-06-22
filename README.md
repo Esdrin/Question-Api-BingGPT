@@ -78,7 +78,7 @@ requests.post(
 ).json()
 ```
 
-注意：请务必在每次使用完clean的api后重新再调用一遍次api
+注意：请务必在每次使用完clean的api后重新再调用一遍这个api
 
 ### /chat
 
