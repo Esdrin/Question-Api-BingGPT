@@ -28,8 +28,9 @@
 
 ## 友情链接
 
-[Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=zh-CN)
 [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)
+
+[Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=zh-CN)
 
 ## API接口
 
