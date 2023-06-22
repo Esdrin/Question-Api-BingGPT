@@ -1,0 +1,4 @@
+fastapi==0.97.0
+EdgeGPT==0.10.13
+uvicorn==0.22.0
+python-multipart==0.0.6
