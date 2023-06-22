@@ -22,9 +22,14 @@
 2. 安装Python（我用的环境是3.9.16，但是其他版本大差不差应该也兼容）
 3. 首先使用下载本代码（也没多少东西）`https://github.com/Esdrin/Question-Api-BingGPT.git`
 4. cd到项目目录后安装依赖`pip install -r requirement.txt`
-5. 从Edge浏览器下扒下你的Cookies数据（我是用的是<a href="[Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=zh-CN)">Cookie Editor</a>复制json到剪贴板），并保存到项目目录内，重命名为`cookies.json`
+5. 从Edge浏览器下扒下你的Cookies数据（我是用的是Cookie Editor复制json到剪贴板），并保存到项目目录内，重命名为`cookies.json`
 6. 打开`main.py`文件修改里面的全局参数`VERIFY_CODE`,这个玩意用于api的访问认证
 7. 在命令行中使用`uvicorn main:app --host 0.0.0.0 --port 5000 --reload`运行本代码
+
+## 友情链接
+
+[Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc?hl=zh-CN)
+[acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)
 
 ## API接口
 
